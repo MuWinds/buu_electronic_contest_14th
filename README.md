@@ -1,5 +1,7 @@
 # buu_electronic_contest_14th
 
+碎碎念：这是我们组第一次参加电赛，把我在物联网学的那点玩意儿用了上去，最后比赛结果二等奖进了国赛也是很令我们欢欣鼓舞的。
+
 __北京联合大学第十四届电子设计竞赛报告__
 
 __设计内容：__
@@ -191,4 +193,4 @@ detector = Detector(DetectorOptions(
 最后直接一手python mqtt.py即可
 
 ## 致谢
-感谢队友们：[@EVGA2048](https://github.com/EVGA2048)和[@GMRgemou](https://github.com/GMRgemou)，也感谢杨萍老师借我的ESP32S3板子
+感谢队友们：[@EVGA2048](https://github.com/EVGA2048)和[@GMRgemou](https://github.com/GMRgemou)，也感谢杨萍老师借我的ESP32S3板子！
