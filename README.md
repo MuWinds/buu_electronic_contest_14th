@@ -208,6 +208,7 @@ The wrong ways:
 6.纯CV的方案是MuWinds设想的，可纯cv需要考虑很多细节，但我们考虑的太少。
 
 The right ways：
+
 1.OpenCV是个正确的路线，但是需要我们长期磨合
 
 2.及时更换到esp32s3没有死磕8266，采用树莓派opencv通用性好方便调试
