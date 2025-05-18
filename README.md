@@ -165,7 +165,9 @@ MQTT图像缓冲区设计为20KB×30fps=600KB/s
 ## 代码部署
 
 车子和控制：我们买的是套件，亚博310编码器电机的小车，[淘宝链接](https://world.taobao.com/item/901102837715.htm?spm=a21wu.11804641-tw.shop-content.58.144e4c54Tg0Oru)，根据esp32s3_car文件夹下的.ino文件将摄像头接好，将gpio40接到车子的TX针脚，41接到RX针脚，用arduino ide将esp32s3_car的东西编译烧进s3
+
 MQTT部分：docker自行跑个emqx，不细说，然后Python安装opencv-python，flask，windows安装pupil_apriltags，linux安装apriltag，对应的检测器初始化部分就要进行修改
+
 windows:
 
 ```python
