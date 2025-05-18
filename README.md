@@ -192,5 +192,27 @@ detector = Detector(DetectorOptions(
 
 最后直接一手python mqtt.py即可
 
+## WrongWay & RightWay:
+The wrong ways:
+
+1.高估了8266的处理能力，硬件方案失误了
+
+2.低估了esp32s3的潜力，这个更多的是我们团队开发能力的问题
+
+3.没有仔细阅读赛题，传感器用的太少，很多细节没有注意到
+
+4.学校资源沟通较差，实验室周六日不开放也不说一声，笔记本锁里面整整两天，时间浪费过多。
+
+5.没有考虑到车子的其他形态。
+
+6.纯CV的方案是MuWinds设想的，可纯cv需要考虑很多细节，但我们考虑的太少。
+
+The right ways：
+1.OpenCV是个正确的路线，但是需要我们长期磨合
+
+2.及时更换到esp32s3没有死磕8266，采用树莓派opencv通用性好方便调试
+
+3.四驱车至少跑的稳健
+
 ## 致谢
 感谢队友们：[@EVGA2048](https://github.com/EVGA2048)和[@GMRgemou](https://github.com/GMRgemou)，也感谢杨萍老师借我的ESP32S3板子！
