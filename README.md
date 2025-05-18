@@ -189,4 +189,4 @@ detector = Detector(DetectorOptions(
 最后直接一手python mqtt.py即可
 
 ## 致谢
-感谢队友们：[@EVGA2048](https://github.com/EVGA2048)和[@GMRgemou](https://github.com/GMRgemou)
+感谢队友们：[@EVGA2048](https://github.com/EVGA2048)和[@GMRgemou](https://github.com/GMRgemou)，也感谢杨萍老师借我的ESP32S3板子
