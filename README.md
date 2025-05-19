@@ -32,7 +32,7 @@
 （6） 途经某点、在某点停车的判断标准为：小车在地面上的投影完全覆盖或者部分覆盖地面上用于标识地点的圆形图案（直径 3CM 左右）。
 （7） 小车途径某点，或者在某点停车，需给出声光提示。
 （8） 二维码采用 Apriltag 的 36h11 类型，二维码尺寸 8CM 左右。二维码垂直于地面放置，二维码中心距离地面 15CM 左右，如图 3 所示。使用的 ID 及其含义如表 1 所示。
-![image](https://github.com/MuWinds/buu_electronic_contest_14th/blob/main/img/pic5.png)
+![image](https://github.com/MuWinds/buu_electronic_contest_14th/blob/main/img/pic5.jpg)
 ![image](https://github.com/MuWinds/buu_electronic_contest_14th/blob/main/img/pic6.png)
 
 ## 北京联合大学第十四届电子设计竞赛报告
